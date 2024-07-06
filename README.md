@@ -76,7 +76,7 @@ components:
 ## Issues
 
 - [ ] Volumes are currently not supported.
-- [ ] If there's no `config,yml` file. After the process exits, a `config.yml` folder is automatically created - this is caused by the volume in the `components.yaml` file.
+- [ ] If there's no `config.yml` file. After the process exits, a `config.yml` folder is automatically created - this is caused by the volume in the `components.yaml` file.
 - [ ] Existing `configurator` container needs to be deleted before a new one can be launched.
 
 ## LICENSE
