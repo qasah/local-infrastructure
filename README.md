@@ -16,6 +16,7 @@ _Simple deployment_ - Utilize Docker Compose for streamlined setup and managemen
 ```
 
 2.‎‎‏‏‎ Define your `config.yaml` file
+
 3.‎‎‏‏‎ Set executable permission (if not already set)
 
 ```sh
