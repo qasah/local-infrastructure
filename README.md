@@ -2,9 +2,9 @@ This repository provides a setup to spin up multiple Docker instances using Dock
 
 ## Features
 
-_Dynamic configuration_ - Easily specify multiple Docker instances in a YAML configuration file.
-_Automated setup_ - Scripts to automatically generate Docker Compose files and start the defined services.
-_Isolated environment_ - Each instance runs in its own Docker container, ensuring isolation and manageability.
+_Dynamic configuration_ - Easily specify multiple Docker instances in a YAML configuration file.\
+_Automated setup_ - Scripts to automatically generate Docker Compose files and start the defined services.\
+_Isolated environment_ - Each instance runs in its own Docker container, ensuring isolation and manageability.\
 _Simple deployment_ - Utilize Docker Compose for streamlined setup and management of services.
 
 ## Usage
